@@ -28,10 +28,10 @@
   .icono-whatsapp a{
     position: fixed;
     z-index: 1;
-    width: 100%;
-    padding-top: 150px;
+    right: 0;
+    
     padding-right: 120px;
-    top: 0;
+    bottom: 0;
     
     
     

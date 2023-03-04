@@ -28,18 +28,26 @@
   .icono-whatsapp a{
     position: fixed;
     z-index: 1;
-    right: 0;
-    
-    padding-right: 120px;
-    bottom: 0;
-    
-    
-    
+    right: 25px;
+    transition: 0.3s;
+    padding-right: 80px;
+    bottom: 25px;
+    }
 
-    
-    
+    .boton{
+      width: 80px;
+    }
+
+
+    .boton:hover{
+      transform: scale(1.1);
+      transition: 0.3s;
+    }
    
-}
+
+   
+
+
 
 @media screen and (max-width: 550px) {
   .headerIndex {
@@ -1103,7 +1111,7 @@
     color: var(--negro);
     transition: all .4s ease;
     border-radius: 1em;
-    background-color: var(--blanco);
+    /* background-color: var(--blanco); */
     box-shadow: 1em 1em 2em var(--sombra-ppal), -1em -1em 2em var(--sombra-sec), inset 0 0 0 transparent, inset 0 0 0 transparent; }
   .ul .li {
     background: orange;

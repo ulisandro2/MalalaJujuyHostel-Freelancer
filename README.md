@@ -17,11 +17,10 @@ El proyecto está construido con tecnologías web estándar:
 ## Capturas de Pantalla
 <div style="displey:flex; flex-direction:row;">
 <img width="300px" src="https://malalajujuyhostel.com/imagenes/living.jpg"/>
-<img width="300px" src="https://malalajujuyhostel.com/imagenes/living.jpg"/>
-<img width="300px" src="https://malalajujuyhostel.com/imagenes/living.jpg"/>
-<img width="300px" src="https://malalajujuyhostel.com/imagenes/living.jpg"/>
-<img width="300px" src="https://malalajujuyhostel.com/imagenes/living.jpg"/>
-<img width="300px" src="https://malalajujuyhostel.com/imagenes/living.jpg"/>
+<img width="300px" src="https://malalajujuyhostel.com/imagenes/livingCompleto.jpg"/>
+<img width="300px" src="https://malalajujuyhostel.com/imagenes/ventana.jpg"/>
+<img width="300px" src="https://malalajujuyhostel.com/imagenes/compu.jpg"/>
+<img width="300px" src="https://malalajujuyhostel.com/imagenes/9.jpg"/>
 </div>
 
 

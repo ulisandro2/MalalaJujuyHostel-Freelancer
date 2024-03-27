@@ -1,10 +1,10 @@
-function mostrarAlerta(){
-    alert("!ATENCION WHATSAPP HACKEADO NO ENVIAR MENSAJES , HABLAR DIRECTAMENTE MAIL O INSTAGRAM")
-}
+// function mostrarAlerta(){
+//     alert("!ATENCION WHATSAPP HACKEADO NO ENVIAR MENSAJES , HABLAR DIRECTAMENTE MAIL O INSTAGRAM")
+// }
 
-Window.onload = function(){
-    mostrarAlerta()
-}
+// Window.onload = function(){
+//     mostrarAlerta()
+// }
 
 
 const enlaces  = document.querySelectorAll('.ul .a');
